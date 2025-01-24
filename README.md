@@ -3,6 +3,8 @@
 ## Project Overview  
 This project focuses on analyzing the sales data of **Ferns and Petals (FNP)**, a brand specializing in gifts for various occasions. Using Excel's advanced tools, the analysis uncovers key sales trends, customer behavior insights, and product performance. These insights are designed to help the company enhance its sales strategies and customer satisfaction.
 
+![Dashboard Sample](https://github.com/user-attachments/assets/49dc3d63-6463-4cdb-938c-fda71e0c8acd)
+
 ## Problem Statement  
 FNP provided a dataset containing customer, product, and order details. The objective of this project was to:  
 - Analyze the dataset to identify key trends and insights.  
